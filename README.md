@@ -4,3 +4,4 @@ Objetivo:
 Estructura general:
 Tecnologias utilizadas:
 Instrucciones para preparar el entorno virtual y dependencias:
+proximas mejoras:
